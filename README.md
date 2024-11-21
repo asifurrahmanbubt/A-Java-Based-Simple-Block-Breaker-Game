@@ -1,4 +1,3 @@
-```markdown
 # Block Breaker Game
 
 A simple and interactive **Block Breaker Game** built in Java using `Swing` for the GUI and basic game mechanics. The game challenges the player to break all bricks using a bouncing ball while controlling a paddle. This project demonstrates fundamental Java programming concepts like GUI design, event handling, and collision detection.
@@ -41,7 +40,6 @@ A simple and interactive **Block Breaker Game** built in Java using `Swing` for 
    - Open the project in the IDE.
    - Run the `BlockBreakerGame.java` file.
 
----
 
 ## 🛠️ Controls
 
