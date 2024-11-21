@@ -1,4 +1,4 @@
-<img width="362" alt="Screenshot 2024-11-21 123314" src="https://github.com/user-attachments/assets/fa087fd9-398d-4f4f-9ea7-d3f45a53f438"># Block Breaker Game
+# Block Breaker Game
 
 A simple and interactive **Block Breaker Game** built in Java using `Swing` for the GUI and basic game mechanics. The game challenges the player to break all bricks using a bouncing ball while controlling a paddle. This project demonstrates fundamental Java programming concepts like GUI design, event handling, and collision detection.
 
@@ -60,7 +60,7 @@ A simple and interactive **Block Breaker Game** built in Java using `Swing` for 
 ---
 
 ## 📸 Screenshots
-<img width="362" alt="Screenshot 2024-11-21 123314" src="https://github.com/user-attachments/assets/885783ec-9c88-4fa1-8ed9-5b361690a159">
+<img width="362" alt="Screenshot 2024-11-21 123314" src="https://github.com/user-attachments/assets/885783ec-9c88-4fa1-8ed9-5b361690a159"> <br>
 
 
 <img width="363" alt="Screenshot 2024-11-21 123255" src="https://github.com/user-attachments/assets/4d1ebd24-1564-42b7-be0c-347d5396ca4b">
