@@ -90,7 +90,6 @@ Feel free to fork this repository and make improvements! Submit a pull request i
 
 ## ✨ Acknowledgments
 
-Built with ❤️ by **Atef** as a Java learning project!
+Built with ❤️ by **Atef** & **Nowrin** as a Java learning project!
 ```
 
----
