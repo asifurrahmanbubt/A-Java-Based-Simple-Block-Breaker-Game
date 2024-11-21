@@ -40,6 +40,7 @@ A simple and interactive **Block Breaker Game** built in Java using `Swing` for 
    - Open the project in the IDE.
    - Run the `BlockBreakerGame.java` file.
 
+---
 
 ## 🛠️ Controls
 
